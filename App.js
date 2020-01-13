@@ -8,24 +8,21 @@
 
 import React, { Component } from 'react';
 import {
-    SafeAreaView,
-    StyleSheet,
-    ScrollView,
-    View,
-    Text,
-    StatusBar,
+    StyleSheet
 } from 'react-native';
+import Counter from './components/Counter';
 import { Provider } from 'react-redux';
-import GoogleDriveFileList from './components/GoogleDriveFileList';
 import store from './store';
+import Multiply from './components/Multiply';
+import GoogleDriveFilesList from './components/GoogleDriveFilesList';
 
 class App extends Component<Props> {
     render() {
         return (
             <Provider store={store}>
-                <View style={styles.container}>
-                    <GoogleDriveFileList />
-                </View>
+                <Counter/>
+                <Multiply/>
+                <GoogleDriveFilesList/>
             </Provider>
         );
     }
