@@ -4,7 +4,7 @@ An example about using Redux in React Native
 <h2>YOUTUBE VIDEO:</h2>
 <h2>DEMO</h2>
 
-<h2>0. Step 0:</h2> Benefits of using Redux:<br>
+<h2>Benefits of using Redux</h2>
 - Avoid pass data multiple levels (React/ React native passes props from parent component to its child components<br>
 => maybe some child components don't need the passing data, but it contains a component that needs this data) => data is useless in some components<br>
 - Redux makes it's easy to test (actions tell us what is happening) => traditional state in every components makes us crazy when something wrong but we don't know where it happened<br>
