@@ -3,6 +3,8 @@ An example about using Redux in React Native
 
 <h2>YOUTUBE VIDEO:</h2>
 <h3>PART 1 (Basics): https://www.youtube.com/watch?v=VwrJTgr2UCU</h3>
+<h3>PART 2 (Combine reducers): https://www.youtube.com/watch?v=WGRE0csevfE</h3>
+<h3>PART 3 (Redux thunk): https://www.youtube.com/watch?v=QKVYP7PQ_pI</h3>
 <h2>DEMO</h2>
 
 <h2>Benefits of using Redux</h2>
