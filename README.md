@@ -2,6 +2,7 @@
 An example about using Redux in React Native
 
 <h2>YOUTUBE VIDEO:</h2>
+<h3>PART 1 (Basics): https://www.youtube.com/watch?v=VwrJTgr2UCU</h3>
 <h2>DEMO</h2>
 
 <h2>Benefits of using Redux</h2>
